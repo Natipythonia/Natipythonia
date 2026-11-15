@@ -56,9 +56,12 @@ Aplicación de gestión y automatización de procesos para clínicas de fisioter
 
 ### 🌍 ATLANTIA Tourism AI
 Demostración de asistencia turística multilingüe mediante inteligencia artificial.
+🔗 [Ver demostración de ATLANTIA Tourism AI](https://atlantiatech.gal/demos/fisterra.html)
 
 ### 🎓 ATLANTIA Opositores AI
 Plataforma educativa en desarrollo para apoyar la preparación de oposiciones mediante inteligencia artificial.
+
+🔗 [Ver presentación de ATLANTIA Opositores AI](https://atlantiatech.gal/demos/opositores.html)
 
 🔗 **[Explorar ATLANTIA TECH y sus proyectos](https://atlantiatech.gal/)**
 
